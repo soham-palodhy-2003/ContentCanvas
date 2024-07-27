@@ -1,0 +1,30 @@
+/* Navigation Styles */
+.mainnav {
+    background-color: #333;
+    padding: 10px 20px;
+    width: 100%;
+  }
+  
+  .mainnav ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .mainnav li {
+    margin: 0 15px;
+    font-size: 14px;
+  }
+  
+  .mainnav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .mainnav a:hover {
+    color: #f0f0f0;
+  }
+  
